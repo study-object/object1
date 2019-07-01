@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e30aa96-1cbf-4239-a335-cc1af26be67f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/kr/co/manty/study/Audience.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kr/co/manty/study/Audience.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kr/co/manty/study/Bag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kr/co/manty/study/Bag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kr/co/manty/study/TicketOffice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kr/co/manty/study/TicketOffice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kr/co/manty/study/TicketSeller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kr/co/manty/study/TicketSeller.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -57,49 +61,47 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/manty/study/Bag.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
-              <caret line="2" selection-start-line="2" selection-end-line="35" selection-end-column="1" />
+              <caret line="2" selection-start-line="2" selection-end-line="38" selection-end-column="1" />
               <folding>
                 <element signature="e#163#164#0" expanded="true" />
-                <element signature="e#182#183#0" expanded="true" />
+                <element signature="e#199#200#0" expanded="true" />
                 <element signature="e#170#171#0" expanded="true" />
                 <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#250#251#0" expanded="true" />
-                <element signature="e#292#293#0" expanded="true" />
                 <element signature="e#336#337#0" expanded="true" />
                 <element signature="e#371#372#0" expanded="true" />
                 <element signature="e#415#416#0" expanded="true" />
                 <element signature="e#451#452#0" expanded="true" />
-                <element signature="e#494#495#0" expanded="true" />
-                <element signature="e#531#532#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/manty/study/Audience.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" selection-start-line="2" selection-end-line="19" selection-end-column="1" />
-              <folding>
-                <element signature="e#103#104#0" expanded="true" />
-                <element signature="e#132#133#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/manty/study/Audience.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" selection-start-line="2" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <element signature="e#103#104#0" expanded="true" />
+                <element signature="e#132#133#0" expanded="true" />
+                <element signature="e#171#172#0" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/manty/study/TicketOffice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" selection-start-line="7" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="108">
+              <caret line="6" selection-start-line="6" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#348#349#0" expanded="true" />
-                <element signature="e#478#479#0" expanded="true" />
-                <element signature="e#507#508#0" expanded="true" />
+                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#439#440#0" expanded="true" />
+                <element signature="e#497#498#0" expanded="true" />
+                <element signature="e#542#543#0" expanded="true" />
                 <element signature="e#558#559#0" expanded="true" />
                 <element signature="e#598#599#0" expanded="true" />
               </folding>
@@ -111,10 +113,12 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/manty/study/TicketSeller.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="18" selection-end-column="9" />
+              <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
               <folding>
                 <element signature="e#151#152#0" expanded="true" />
                 <element signature="e#199#200#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -153,12 +157,12 @@
         <option value="$PROJECT_DIR$/src/main/java/kr/co/manty/study/Invitation.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/kr/co/manty/study/Ticket.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kr/co/manty/study/Bag.java" />
-        <option value="$PROJECT_DIR$/src/main/java/kr/co/manty/study/TicketOffice.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/main/java/kr/co/manty/study/TicketSeller.java" />
         <option value="$PROJECT_DIR$/src/main/java/kr/co/manty/study/Theater.java" />
         <option value="$PROJECT_DIR$/src/main/java/kr/co/manty/study/Audience.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kr/co/manty/study/Bag.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kr/co/manty/study/TicketOffice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kr/co/manty/study/TicketSeller.java" />
       </list>
     </option>
   </component>
@@ -300,12 +304,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561984065890</updated>
-      <workItem from="1561984067708" duration="4186000" />
+      <workItem from="1561984067708" duration="5986000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4186000" />
+    <option name="totallyTimeSpent" value="5986000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1503" y="23" width="1920" height="1177" extended-state="0" />
@@ -375,22 +379,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/manty/study/TicketOffice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" selection-start-line="7" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -411,34 +399,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/manty/study/Bag.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/manty/study/TicketSeller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" selection-start-line="2" selection-end-line="35" selection-end-column="1" />
+        <state relative-caret-position="180">
+          <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
           <folding>
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-            <element signature="e#494#495#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/manty/study/TicketSeller.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/manty/study/Bag.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="18" selection-end-column="9" />
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="38" selection-end-column="1" />
           <folding>
-            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
             <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -446,10 +432,28 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/manty/study/Audience.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
-          <caret line="2" selection-start-line="2" selection-end-line="19" selection-end-column="1" />
+          <caret line="2" selection-start-line="2" selection-end-line="12" selection-end-column="1" />
           <folding>
             <element signature="e#103#104#0" expanded="true" />
             <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/manty/study/TicketOffice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" selection-start-line="6" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
           </folding>
         </state>
       </provider>
